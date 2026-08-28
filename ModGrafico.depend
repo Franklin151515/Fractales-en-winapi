@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1757172294 source:c:\users\franklin\desktop\modgrafico\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1584205424 c:\users\franklin\desktop\modgrafico\resource.h
+
+1757194623 source:c:\users\franklin\desktop\modgrafico\main.cpp
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+
+1758038003 source:c:\users\franklin\desktop\fractales\main.cpp
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+
+1584205424 c:\users\franklin\desktop\fractales\resource.h
+
+1757172294 source:c:\users\franklin\desktop\fractales\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1758038003 source:d:\unap\2025\poo iii\fractales\main.cpp
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+
+1584205424 d:\unap\2025\poo iii\fractales\resource.h
+
+1757172294 source:d:\unap\2025\poo iii\fractales\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
