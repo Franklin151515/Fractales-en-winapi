@@ -21,7 +21,7 @@ HINSTANCE hInst;
 
 void L(HDC hdc, int x, int y, int a, int c, int e)
 {
-    int minA=1;
+    int minA=5;
     Sleep(0);
     if(c<4)
     {
